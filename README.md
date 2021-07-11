@@ -22,7 +22,7 @@ Once the program is run, it shows the four options:
 The tree must have a root node, a left node and right node to the root. After that it is up to the user, to add any number of nodes.
                            
 ## 1. INSERT
-To insert the root node, simply enter 1, then the values of the node.
+To insert the root node, simply enter 1, then the value of the node.
 Then insert the root->left and root->right, to do that, enter 1, then press y, and enter the respective values.
 
 ![3 c](https://user-images.githubusercontent.com/62089952/125193293-53c82080-e269-11eb-9f6e-fe6c4299c1be.jpg)
@@ -31,7 +31,7 @@ Then insert the root->left and root->right, to do that, enter 1, then press y, a
 To create a tree like above, the following is to be done:
 ![2 c](https://user-images.githubusercontent.com/62089952/125193174-be2c9100-e268-11eb-8708-f8b5db01e41a.jpg)
 
-<i>Note that the first question is always answered with 'y' as every node will be under root node</i>
+<i>Note that the first question is always answered with 'y' as every node will be below root node</i>
 ## 2. PRINT
 This option will print all the nodes of the tree. It will be of the form: (root->data) -> (root->left->data) --- (root->data) -> (root->right->data)
 
